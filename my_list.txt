@@ -1,0 +1,9 @@
+Water-type Starter Pokemon
+"Squirtle"
+"Totadile"
+"Mudkip"
+"Piplup"
+"Oshawott"
+"Froakie"
+"Popplio"
+"Sobble"
